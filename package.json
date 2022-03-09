@@ -1,0 +1,23 @@
+{
+  "name": "jestjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpwaldow/jestJs.git"
+  },
+  "keywords": [],
+  "author": "Carlos Eduardo <cpwaldow@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpwaldow/jestJs/issues"
+  },
+  "homepage": "https://github.com/cpwaldow/jestJs#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
