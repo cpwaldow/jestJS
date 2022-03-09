@@ -2,6 +2,8 @@
 
 Esse repositório tem como objetivo resolver alguns desafios propostos pelo codewars de JavaScript e fazer a implementação de testes em todos os desafios.
 
+As funções estão declaradas dentro da pasta _src_, os arquivos de testes estão na pasta _tests_
+
 ### calculo
 
 Faça a implementação das quatro principais operações matemáticas
