@@ -12,5 +12,8 @@ describe('Retornar o maior e o menor item de um array nunmérico', () => {
   });
   it('Retorna um array contendo o menor e maior número da array passada como parâmetro', () => {
     expect(highAndLow([9, 8, 2, 3, 1, 6, 4, 7, 5, 0, 15])).toEqual([0, 15]);
+    expect(highAndLow([1, 2, 3, 4, 5])).toEqual([1, 5]);
+    expect(highAndLow([1, 2, -3, 4, 5])).toEqual([-3, 5]);
+    expect(highAndLow([1, 9, 3, 4, -5])).toEqual([-5, 9]);
   });
 });
