@@ -16,3 +16,11 @@ Faça a implementação de uma função que recebe um array como parâmetro e re
 
 - Caso o array esteja vazio, retorne undefined
 - Caso o array contenha algum item que não for um número, retorne undefined
+
+### average
+
+Faça a implementação de uma função que calcule a média entre os valores passados em um array.
+
+- Caso o array esteja vazio, retorne undefined
+- Caso o array contenha algum item que não for um número, retorne undefined
+- O valor retornado deve ser o menor número inteiro da conta
