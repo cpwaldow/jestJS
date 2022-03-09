@@ -4,6 +4,8 @@ Esse repositório tem como objetivo resolver alguns desafios propostos pelo code
 
 As funções estão declaradas dentro da pasta _src_, os arquivos de testes estão na pasta _tests_
 
+[Documentação do Jest](https://jestjs.io/docs/getting-started)
+
 ### calculo
 
 Faça a implementação das quatro principais operações matemáticas
