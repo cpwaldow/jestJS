@@ -17,6 +17,4 @@ const nota = (nota1, nota2, nota3, nota4) => {
   return `Parabéns, você foi aprovado! Sua nota final foi: ${notaFinal}!`;
 };
 
-console.log(nota(10));
-
 module.exports = nota;
