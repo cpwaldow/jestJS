@@ -24,3 +24,13 @@ Faça a implementação de uma função que calcule a média entre os valores pa
 - Caso o array esteja vazio, retorne undefined
 - Caso o array contenha algum item que não for um número, retorne undefined
 - O valor retornado deve ser o menor número inteiro da conta
+
+### nota
+
+Faça a implementação a função _nota_. Essa função recebe 4 parâmetros, e precisa ter uma nota maior ou igual a 7 calculando a média com as 4 notas. por exemplo: _(10 + 10 + 10 + 10) / 4_.
+
+- Caso a média das notas for maior ou igual a 7, retorne a string _'Parabéns, você foi aprovado! Sua nota final foi: 10!'_.
+- Caso a média fique abaixo de 7, retorne a string _'Você foi reprovado, sua nota final foi: 6.5!'_.
+- Faça a cobertura de teste se a pessoa estudante enviou apenas 3 notas. Obs: Mesmo com uma nota a menos, a pessoa pode ser aprovada ou reprovada
+- Faça os testes retornando que a pessoa foi reprovada quando envia apenas 2 notas.
+- Faça os testes retornando que a pessoa foi reprovada quando envia apenas 1 nota.
