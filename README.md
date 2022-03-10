@@ -17,7 +17,7 @@ Comando para rodar todos os arquivos de teste:
 Comando para rodar um único arquivo de teste:
 
     npm test nomeDoArquivo
-    por exemplo: npm test calculo
+    exemplo: npm test calculo
 
 Comando para rodar a cobertura de testes:
 
