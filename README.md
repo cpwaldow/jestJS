@@ -6,6 +6,23 @@ As funções estão declaradas dentro da pasta _src_, os arquivos de testes est�
 
 [Documentação do Jest](https://jestjs.io/docs/getting-started)
 
+Antes de começar, rode o seguinte comando:
+
+    npm install
+
+Comando para rodar todos os arquivos de teste:
+
+    npm test
+
+Comando para rodar um único arquivo de teste:
+
+    npm test nomeDoArquivo
+    por exemplo: npm test calculo
+
+Comando para rodar a cobertura de testes:
+
+    npm run test:coverage
+
 ### calculo
 
 Faça a implementação das quatro principais operações matemáticas
