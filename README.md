@@ -61,3 +61,10 @@ Faça a implementação da função _evenOrOdd_. Essa função recebe um número
 - Caso o número seja par, retorne a string 'O número é par'.
 - Caso o número seja impar, retorne a string 'O número é ímpar'
 - Caso não receba parâmetros, retorne a string 'É necessário informar um número!'
+
+### drink
+
+Faça a implementação da função _drink_ que recebe como parâmetro o ano de nascimento da pessoa e subtraia pelo ano corrente.
+
+- Caso a subtração retorne um número maior que 18, retorne a string 'Maior que 18 anos, pode beber'
+- Caso a subtração retorne um número menor que 18, retorne a string 'Menor que 18 anos, não pode beber'
