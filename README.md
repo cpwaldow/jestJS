@@ -46,10 +46,18 @@ Faça a implementação de uma função que calcule a média entre os valores pa
 
 _Esse exercício foi pego com base no [repositório](https://github.com/gustavoguanabara/javascript/blob/master/exercicios/ex011/media.js) de JavaScript do Gustavo Guanabara!_
 
-Faça a implementação a função _nota_. Essa função recebe 4 parâmetros, e precisa ter uma nota maior ou igual a 7 calculando a média com as 4 notas. por exemplo: _(10 + 10 + 10 + 10) / 4_.
+Faça a implementação da função _nota_. Essa função recebe 4 parâmetros, e precisa ter uma nota maior ou igual a 7 calculando a média com as 4 notas. por exemplo: _(10 + 10 + 10 + 10) / 4_.
 
 - Caso a média das notas for maior ou igual a 7, retorne a string _'Parabéns, você foi aprovado! Sua nota final foi: 10!'_.
 - Caso a média fique abaixo de 7, retorne a string _'Você foi reprovado, sua nota final foi: 6.5!'_.
 - Faça a cobertura de teste se a pessoa estudante enviou apenas 3 notas. Obs: Mesmo com uma nota a menos, a pessoa pode ser aprovada ou reprovada
 - Faça os testes retornando que a pessoa foi reprovada quando envia apenas 2 notas.
 - Faça os testes retornando que a pessoa foi reprovada quando envia apenas 1 nota.
+
+### evenOrOdd
+
+Faça a implementação da função _evenOrOdd_. Essa função recebe um número como parâmetro, faça os seguintes testes:
+
+- Caso o número seja par, retorne a string 'O número é par'.
+- Caso o número seja impar, retorne a string 'O número é ímpar'
+- Caso não receba parâmetros, retorne a string 'É necessário informar um número!'
