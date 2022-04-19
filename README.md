@@ -27,6 +27,13 @@ Comando para rodar a cobertura de testes:
 
 Faça a implementação das quatro principais operações matemáticas
 
+** O que será avaliado**
+
+- Função `sum` com parâmetros 1 e 2, retorna **3**
+- Função `sub` com parâmetros 5 e 3, retorna **2**
+- Função `div` com parâmetros 12 e 4, retorna **3**
+- Função `mult` com parâmetros 7 e 7, retorna **49**
+
 ### highAndLow
 
 Faça a implementação de uma função que recebe um array como parâmetro e retorna um novo array contendo o menor e o maior número.
