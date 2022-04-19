@@ -84,6 +84,17 @@ Faça a implementação da função _drink_ que recebe como parâmetro o ano de 
 - Caso a subtração retorne um número maior que 18, retorne a string 'Maior que 18 anos, pode beber'
 - Caso a subtração retorne um número menor que 18, retorne a string 'Menor que 18 anos, não pode beber'
 
+# Comparison
+
+A função recebe dois valores como parâmetros, retorne true se os dois valores são estritamente iguais e false caso não sejam iguais.
+
+**O que será avaliado**
+
+- Caso a função receba os valores **2** e **3**, retorne `false`
+- Caso a função receba os valores **3** e **3**, retorne `true`
+- Caso a função receba os valores **1** e **'1'**, retorne `false`
+- Caso a função receba os valores **'10'** e **'10'**, retorne `true`
+
 # Referências
 
 [JSchalenger](https://www.jschallenger.com/javascript-basics/sum-two-numbers-javascript)
