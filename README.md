@@ -23,28 +23,41 @@ Comando para rodar a cobertura de testes:
 
     npm run test:coverage
 
-### calculo
+# calculo
 
 Faça a implementação das quatro principais operações matemáticas
 
-### highAndLow
+**O que será avaliado**
+
+- Função `sum` com parâmetros 1 e 2, retorna **3**
+- Função `sub` com parâmetros 5 e 3, retorna **2**
+- Função `div` com parâmetros 12 e 4, retorna **3**
+- Função `mult` com parâmetros 7 e 7, retorna **49**
+
+# highAndLow
 
 Faça a implementação de uma função que recebe um array como parâmetro e retorna um novo array contendo o menor e o maior número.
+
+**O que será avaliado**
 
 - Caso o array esteja vazio, retorne undefined
 - Caso o array contenha algum item que não for um número, retorne undefined
 
-### average
+# average
 
 Faça a implementação de uma função que calcule a média entre os valores passados em um array.
+
+**O que será avaliado**
 
 - Caso o array esteja vazio, retorne undefined
 - Caso o array contenha algum item que não for um número, retorne undefined
 - O valor retornado deve ser o menor número inteiro da conta
 
-### nota
+# nota
 
 Faça a implementação da função _nota_. Essa função recebe 4 parâmetros, e precisa ter uma nota maior ou igual a 7 calculando a média com as 4 notas. por exemplo: _(10 + 10 + 10 + 10) / 4_.
+
+**O que será avaliado**
 
 - Caso a média das notas for maior ou igual a 7, retorne a string _'Parabéns, você foi aprovado! Sua nota final foi: 10!'_.
 - Caso a média fique abaixo de 7, retorne a string _'Você foi reprovado, sua nota final foi: 6.5!'_.
@@ -52,17 +65,21 @@ Faça a implementação da função _nota_. Essa função recebe 4 parâmetros, 
 - Faça os testes retornando que a pessoa foi reprovada quando envia apenas 2 notas.
 - Faça os testes retornando que a pessoa foi reprovada quando envia apenas 1 nota.
 
-### evenOrOdd
+# evenOrOdd
 
 Faça a implementação da função _evenOrOdd_. Essa função recebe um número como parâmetro, faça os seguintes testes:
+
+**O que será avaliado**
 
 - Caso o número seja par, retorne a string 'O número é par'.
 - Caso o número seja impar, retorne a string 'O número é ímpar'
 - Caso não receba parâmetros, retorne a string 'É necessário informar um número!'
 
-### drink
+# drink
 
 Faça a implementação da função _drink_ que recebe como parâmetro o ano de nascimento da pessoa e subtraia pelo ano corrente.
+
+**O que será avaliado**
 
 - Caso a subtração retorne um número maior que 18, retorne a string 'Maior que 18 anos, pode beber'
 - Caso a subtração retorne um número menor que 18, retorne a string 'Menor que 18 anos, não pode beber'
