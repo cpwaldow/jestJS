@@ -1,6 +1,6 @@
 # jestJs
 
-Esse repositório tem como objetivo resolver alguns desafios propostos pelo codewars de JavaScript e fazer a implementação de testes em todos os desafios.
+Esse repositório tem como objetivo resolver alguns desafios de JavaScript e fazer a implementação de testes.
 
 As funções estão declaradas dentro da pasta _src_, os arquivos de testes estão na pasta _tests_
 
@@ -44,8 +44,6 @@ Faça a implementação de uma função que calcule a média entre os valores pa
 
 ### nota
 
-_Esse exercício foi pego com base no [repositório](https://github.com/gustavoguanabara/javascript/blob/master/exercicios/ex011/media.js) de JavaScript do Gustavo Guanabara!_
-
 Faça a implementação da função _nota_. Essa função recebe 4 parâmetros, e precisa ter uma nota maior ou igual a 7 calculando a média com as 4 notas. por exemplo: _(10 + 10 + 10 + 10) / 4_.
 
 - Caso a média das notas for maior ou igual a 7, retorne a string _'Parabéns, você foi aprovado! Sua nota final foi: 10!'_.
@@ -68,3 +66,9 @@ Faça a implementação da função _drink_ que recebe como parâmetro o ano de 
 
 - Caso a subtração retorne um número maior que 18, retorne a string 'Maior que 18 anos, pode beber'
 - Caso a subtração retorne um número menor que 18, retorne a string 'Menor que 18 anos, não pode beber'
+
+# Referências
+
+[JSchalenger](https://www.jschallenger.com/javascript-basics/sum-two-numbers-javascript)
+
+[Gustavo Guanabara](https://github.com/gustavoguanabara/javascript/blob/master/exercicios/ex011/media.js)
