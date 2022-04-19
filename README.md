@@ -88,4 +88,4 @@ Faça a implementação da função _drink_ que recebe como parâmetro o ano de 
 
 [JSchalenger](https://www.jschallenger.com/javascript-basics/sum-two-numbers-javascript)
 
-[Gustavo Guanabara](https://github.com/gustavoguanabara/javascript/blob/master/exercicios/ex011/media.js)
+[Gustavo Guanabara](https://github.com/gustavoguanabara/javascript/tree/master/exercicios)
