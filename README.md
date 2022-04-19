@@ -84,7 +84,7 @@ Faça a implementação da função _drink_ que recebe como parâmetro o ano de 
 - Caso a subtração retorne um número maior que 18, retorne a string 'Maior que 18 anos, pode beber'
 - Caso a subtração retorne um número menor que 18, retorne a string 'Menor que 18 anos, não pode beber'
 
-# Comparison
+# comparison
 
 A função recebe dois valores como parâmetros, retorne true se os dois valores são estritamente iguais e false caso não sejam iguais.
 
@@ -94,6 +94,28 @@ A função recebe dois valores como parâmetros, retorne true se os dois valores
 - Caso a função receba os valores **3** e **3**, retorne `true`
 - Caso a função receba os valores **1** e **'1'**, retorne `false`
 - Caso a função receba os valores **'10'** e **'10'**, retorne `true`
+
+# typeOfArg
+
+A função recebe um parâmetro, retorne qual o tipo de dado do parâmetro.
+
+**O que será avaliado**
+
+- Caso a função receba **1**, retorne `number`
+- Caso a função receba **false**, retorne `boolean`
+- Caso a função receba **{}**, retorne `object`
+- Caso a função receba **'text'**, retorne `string`
+- Caso a função receba **[1,2,3,4,5,6]**, retorne `object`
+
+# removeCharacters
+
+A função recebe uma string e um número como parâmetros, remova a quantidade de caractere da string com base no número passado.
+
+**O que será avaliado**
+
+- Caso a função receba **'removeCharacters('abcdefg', 3)**, retorne **'defg'**
+- Caso a função receba **removeCharacters('1234', 2)**, retorne **'34'**
+- Caso a função receba **removeCharacters('fgedcba', 4)**, retorne **'cba'**
 
 # Referências
 
