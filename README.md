@@ -119,6 +119,6 @@ A função recebe uma string e um número como parâmetros, remova a quantidade 
 
 # Referências
 
-[JSchalenger](https://www.jschallenger.com/javascript-basics/sum-two-numbers-javascript)
+[JSchalenger](https://www.jschallenger.com/)
 
 [Gustavo Guanabara](https://github.com/gustavoguanabara/javascript/tree/master/exercicios)
